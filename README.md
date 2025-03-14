@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nycticorax-nycticorax
 - 👀 I’m interested in birdwatching
-- 💞️ I’m looking to collaborate on creating website for birdwatchers
+- 💞️ I'm an economics student and part-time data analyst
 
 
 <!---
